@@ -4,6 +4,11 @@
 
 - <b>Python sudoku solver (NO GUI)</b>
   - [Making a sudoku auto solver in Python](https://github.com/jessevanwyk1/SudokuSolve-NO-GUI-)
+- <b>Python packet sniffer (NO AF_PACKET)</b>
+  - [Making a packet sniffer in python](https://github.com/jessevanwyk1/PythonSniffer-NO-AFPACKET-)
+  
+  
+<h2>:) About Me:</h2>
 
 - 🔭 I’m currently working on my certificate III in information technology with an elective in cyber sec
 - 🌱 I’m currently learning programming and cyber sec

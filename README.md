@@ -5,8 +5,6 @@
 - <b>Python sudoku solver (NO GUI)</b>
   - [Making a sudoku auto solver in Python](https://github.com/jessevanwyk1/SudokuSolve-NO-GUI-)
 
-<h2>📺 Popular YouTube Videos</h2>
-
 - 🔭 I’m currently working on my certificate III in information technology with an elective in cyber sec
 - 🌱 I’m currently learning programming and cyber sec
 - 👯 I’m looking to collaborate on anything

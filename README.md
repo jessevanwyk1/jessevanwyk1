@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jesse! <br/><a href="https://github.com/jessevanwyk1">Programmer</a>, <a>Cybersecurity Student</a>, <a
+<h1>Hi, I'm Jesse! <br/><a href="https://github.com/jessevanwyk1">Programmer</a>, <a>Cybersecurity Student</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 

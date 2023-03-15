@@ -9,6 +9,12 @@
 - <b>Python keylogger</b>
   - [Making a keylogger in python](https://github.com/jessevanwyk1/Python-keylogger)
   
+<h2>💻 Excel Projects:</h2>
+  
+- <b>Mortgage interest calculator</b>
+  - [Making an excel mortgage interest calculator in excel](https://github.com/jessevanwyk1/Excel-mortgage-calc)
+  
+<h2>👾 Cybersec Projects:</h2>
   
 <h2>:) About Me:</h2>
 

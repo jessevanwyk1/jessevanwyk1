@@ -12,7 +12,9 @@
 <h2>💻 Excel Projects:</h2>
   
 - <b>Mortgage interest calculator</b>
-  - [Making an excel mortgage interest calculator in excel](https://github.com/jessevanwyk1/Excel-mortgage-calc)
+  - [Making an excel mortgage interest calculator](https://github.com/jessevanwyk1/Excel-mortgage-calc)
+- <b>Commission and bonus calculator</b>
+  - [Making an excel commission calculator](https://github.com/jessevanwyk1/Excel-Commission-Calculator)
   
 <h2>👾 Cybersec Projects:</h2>
   

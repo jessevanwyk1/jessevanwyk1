@@ -16,6 +16,11 @@
   
 <h2>👾 Cybersec Projects:</h2>
   
+<h2>📚 Written Reports:</h2>
+  
+  - <b>Greenlights Book Report</b>
+    -[Greenlights summary and report]
+  
 <h2>:) About Me:</h2>
 
 - 🔭 I’m currently working on my certificate III in information technology with an elective in cyber sec

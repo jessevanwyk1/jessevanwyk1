@@ -18,8 +18,8 @@
   
 <h2>📚 Written Reports:</h2>
   
-  - <b>Greenlights Book Report</b>
-    -[Greenlights summary and report](https://github.com/jessevanwyk1/Greenlights-Report)
+- <b>Greenlights Book Report</b>
+  -[Greenlights summary and report](https://github.com/jessevanwyk1/Greenlights-Report)
   
 <h2>:) About Me:</h2>
 

